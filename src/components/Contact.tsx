@@ -117,14 +117,14 @@ const Contact: React.FC = () => {
           <h3 className="text-2xl font-semibold">Our Location</h3>
           <div className="aspect-video w-full rounded-xl overflow-hidden">
             <iframe
-  src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3649.160872247197!2d85.999847!3d25.9475033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!4m12!1m0!1m5!1m1!1s0x39ede9003f382357:0x24b3aedae8ee863d!2m2!1d86.0822485!2d25.9475266!1m5!1m1!1s0x39ede9003f382357:0x24b3aedae8ee863d!2m2!1d86.0822485!2d25.9475266"
-  width="600"
-  height="450"
-  style="border:0;"
-  allowfullscreen=""
-  loading="lazy"
-  referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+              src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3649.160872247197!2d85.999847!3d25.9475033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!4m12!1m0!1m5!1m1!1s0x39ede9003f382357:0x24b3aedae8ee863d!2m2!1d86.0822485!2d25.9475266!1m5!1m1!1s0x39ede9003f382357:0x24b3aedae8ee863d!2m2!1d86.0822485!2d25.9475266"
+              width="600"
+              height="450"
+              style="border:0;"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
           </div>
           <div className="space-y-4">
             <h4 className="text-lg font-semibold">Bharat Matsya Hatchery</h4>
