@@ -116,15 +116,16 @@ const Contact: React.FC = () => {
         <div className="glass-card p-8 space-y-6">
           <h3 className="text-2xl font-semibold">Our Location</h3>
           <div className="aspect-video w-full rounded-xl overflow-hidden">
-            <iframe 
-  src="https://www.google.com/maps?q=W3XJ+2V9,+Bridge,+Arga,+Bandihuli,+Bihar+847105&output=embed" 
-  width="600" 
-  height="450" 
-  style="border:0;" 
-  allowfullscreen="" 
-  loading="lazy" 
-  referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118147.80351149654!2d72.86537793219573!3d22.55602631099444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e4e7efd0c8885%3A0xa9a0b93c0c4b5215!2sAnand%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1709561245443!5m2!1sen!2sin"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              className="w-full h-full"
+            ></iframe>
           </div>
           <div className="space-y-4">
             <h4 className="text-lg font-semibold">Bharat Matsya Hatchery</h4>
