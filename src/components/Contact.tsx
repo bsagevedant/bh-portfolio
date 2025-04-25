@@ -117,7 +117,7 @@ const Contact: React.FC = () => {
           <h3 className="text-2xl font-semibold">Our Location</h3>
           <div className="aspect-video w-full rounded-xl overflow-hidden">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118147.80351149654!2d72.86537793219573!3d22.55602631099444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e4e7efd0c8885%3A0xa9a0b93c0c4b5215!2sAnand%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1709561245443!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3649.160872247197!2d85.999847!3d25.9475033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!4m12!1m0!1m5!1m1!1s0x39ede9003f382357:0x24b3aedae8ee863d!2m2!1d86.0822485!2d25.9475266!1m5!1m1!1s0x39ede9003f382357:0x24b3aedae8ee863d!2m2!1d86.0822485!2d25.9475266"
               width="100%"
               height="100%"
               style={{ border: 0 }}
